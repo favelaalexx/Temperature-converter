@@ -34,9 +34,9 @@ Press `ENTER`
 
 2. Navigate to the folder on your desktop:
 
-__SPANISH:__ `cd Escritorio \ temperature-converter`
+__SPANISH:__ `cd Escritorio \ Temperature-converter`
 
-__ENGLISH:__ `cd Desktop \ temperature-converter`
+__ENGLISH:__ `cd Desktop \ Temperature-converter`
 
 3. Download the program dependencies:
 
