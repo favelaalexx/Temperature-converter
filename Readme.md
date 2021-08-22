@@ -34,9 +34,9 @@ Press `ENTER`
 
 2. Navigate to the folder on your desktop:
 
-__SPANISH:__ `cd Escritorio \ omegle-tracker`
+__SPANISH:__ `cd Escritorio \ temperature-converter`
 
-__ENGLISH:__ `cd Desktop \ omegle-tracker`
+__ENGLISH:__ `cd Desktop \ temperature-converter`
 
 3. Download the program dependencies:
 
