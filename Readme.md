@@ -56,7 +56,7 @@ Being in the repository folder, execute the following command:
 
 Stable release version: 
 
-![version](https://img.shields.io/badge/version-v1.0.0-blue)
+![version](https://img.shields.io/badge/version-v1.0.1-blue)
 
 More versions comming soon :D
 
