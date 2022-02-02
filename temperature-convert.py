@@ -4,13 +4,13 @@ import os, time, random
 def charging_bar():
     bar2 = ChargingBar('Processing:', max=100)
     for num in range(100):
-        time.sleep(random.uniform(0, 0.2))
+        time.sleep(random.uniform(0, 0.1))
         bar2.next()
     bar2.finish()
 
 def fahrenheit_celsius():
     # Convert temperature from Fahrenheit to Celsius
-    fahrenheit = int(input('Enter the temperature in degrees Fahrenheit: '))
+    fahrenheit = float(input('Enter the temperature in degrees Fahrenheit: '))
     celsius = (fahrenheit -32 ) * 5.0/9.0
     charging_bar()
     print()
@@ -18,7 +18,7 @@ def fahrenheit_celsius():
     
 def celsius_fahrenheit():
     # Converts temperature in degrees Celsius to Fahrenheit
-    celsius = int(input('Enter the temperature in degrees Celsius:'))
+    celsius = float(input('Enter the temperature in degrees Celsius:'))
     fahrenheit = 9.0/5.0 * celsius +32
     charging_bar()
     print()
