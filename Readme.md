@@ -38,12 +38,6 @@ __SPANISH:__ `cd Escritorio \ Temperature-converter`
 
 __ENGLISH:__ `cd Desktop \ Temperature-converter`
 
-3. Download the program dependencies:
-
-Install script dependencies:
-
-    python3 -m pip install -r requirements.txt
-IMPORTANT:  the command has to be executed being in the repository folder
 
 ## Running the script 
 
@@ -56,7 +50,7 @@ Being in the repository folder, execute the following command:
 
 Stable release version: 
 
-![version](https://img.shields.io/badge/version-v1.0.1-blue)
+![version](https://img.shields.io/badge/version-v2.0.0-blue)
 
 More versions comming soon :D
 
